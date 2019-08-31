@@ -25,4 +25,3 @@ services:
       - elasticsearch
     ports:
       - "514:514/udp"
-#    network_mode: "host"
